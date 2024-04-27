@@ -22,4 +22,5 @@ mv HumansFriends.txt AnimalsFolder/HumansFriends.txt
 ## Задание 4
 
 dpkg -i \<package name\>
+
 dpkg -r \<package name\>
